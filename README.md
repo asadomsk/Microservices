@@ -1,10 +1,10 @@
 # Microservices
-Tere are 3 microservices that communicate with each other:
-To start the produser restfull API, please enter next url:
-http://localhost:8080/actions (or change application.properties settings)
-Please send  POST request in the next format:
-{
-	"action":"Reverse",
+Tere are 3 microservices that communicate with each other:\
+To start the produser restfull API, please enter next url:\
+http://localhost:8080/actions (or change application.properties settings)\
+Please send  POST request in the next format:\
+{\
+	"action":"Reverse",\
 	"source":"aaa",
 	"dest":"bbb",
 	"date":"12/11/20"
