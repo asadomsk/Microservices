@@ -2,7 +2,7 @@
 Tere are 3 microservices that communicate with each other:\
 To start the produser restfull API, please enter next url:\
 http://localhost:10091/action/create (or change application.properties settings)\
-Please send  POST request in the next format:\
+Please send  POST request at the next format:\
 {\
 	"action":"Reverse",\
 	"source":"aaa",\
